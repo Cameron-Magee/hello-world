@@ -1,2 +1,2 @@
 # hello-world
-Printing hello world
+Printing hello world in Java
